@@ -1,7 +1,7 @@
 # masterProject
 
 Breif Discription
-a Wash U master project under supervision of Dr. Neumann, focusing on classification of text, including sentimental analysis and identity recognition (based on People Data).
+a Wash U master project under supervision of Dr. Neumann, focusing on classification of text, including sentimental analysis and identity recognition (based on Wikipedia Data).
 
 Outlines
 Original Data corpus
